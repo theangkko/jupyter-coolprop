@@ -6,6 +6,10 @@ xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo pu
 
 ## ✨ Try it in your browser ✨
 
+https://theangkko.github.io/jupyter-coolprop/retro/notebooks/?path=cpExample01.ipynb
+
+https://jupyterlite.github.io/xeus-python-demo/retro/notebooks/?path=demo.ipynb
+
 https://jupyterlite.github.io/xeus-python-demo/retro/notebooks/?path=demo.ipynb
 
 ## ≠ How does it compare to the Pyodide kernel?
