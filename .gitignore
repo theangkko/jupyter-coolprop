@@ -1,3 +1,6 @@
+venv/
+oryx-build-commands.txt
+
 *.bundle.*
 lib/
 node_modules/
